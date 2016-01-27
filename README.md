@@ -129,9 +129,15 @@ $ ls /tmp/image_blocks_10x10/
 
 ```
 
+
+Input example image:
+
+![Input image](https://raw.githubusercontent.com/bieli/egzopix__digital_images_analyzer/master/egzopix/solutions/create_images_blocks/docs/image_test.0.png)
+
+
 Output images example with background specific images blocks and important content:
 
-![Images blocks 10x10](https://raw.githubusercontent.com/bieli/egzopix__digital_images_analyzer/master/egzopix/solutions/create_images_blocks/docs/image_blocks_10x10.png)
+![Images blocks 10x10](https://raw.githubusercontent.com/bieli/egzopix__digital_images_analyzer/master/egzopix/solutions/create_images_blocks/docs/image_test.0.image_blocks_10x10.png)
 
 
 TODO

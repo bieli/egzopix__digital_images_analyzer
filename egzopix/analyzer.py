@@ -28,9 +28,6 @@ else:
 
 logging.basicConfig(filename='analyzer.log',level=log_level)
 
-# logging.debug('This message should go to the log file DEBUG')
-# logging.info('So should this INFO')
-# logging.warning('And this, too WARNING')
 
 if args.verbose and args.verbose == 'DEBUG':
   log = "[VERBOSE DEBUG MODE] concept: '{}' input: '{}' output: '{}' verbose: '{}' ".format(

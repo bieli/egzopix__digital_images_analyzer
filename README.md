@@ -4,7 +4,7 @@ EGZOPIX - digital images analyzers
 Concepts
 --------
 
-1. Extracting image detail concept
+1. Extracting image detail using simple statistics method
 
 ![Extracting image detail concept flow](https://raw.githubusercontent.com/bieli/egzopix__digital_images_analyzer/master/egzopix/solutions/extracting_image_detail/concept/extracting_image_detail.png)
 

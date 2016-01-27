@@ -14,8 +14,8 @@ HOW TO RUN ANALYZER
 ```
 $ git clone https://github.com/bieli/egzopix__digital_images_analyzer.git
 $ cd egzopix__digital_images_analyzer/
-$ python egzopix/analyzer.py -c=create_images_blocks_10x10 -i=/tmp/123.jpg -o=/tmp/image_blocks_10x10/ -v=DEBUG
-[VERBOSE DEBUG MODE] concept: 'create_images_blocks_10x10' input: '<open file '/tmp/123.jpg', mode 'r' at 0x7f61f1c505d0>' output: '/tmp/image_blocks_10x10/' verbose: 'DEBUG' 
+$ python egzopix/analyzer.py -c=create_images_blocks_10x10 -i=./egzopix/solutions/create_images_blocks/docs/image_test.0.png -o=/tmp/image_blocks_10x10 -v=DEBUG
+[VERBOSE DEBUG MODE] concept: 'create_images_blocks_10x10' input: '<open file './egzopix/solutions/create_images_blocks/docs/image_test.0.png', mode 'r' at 0x7f61f1c505d0>' output: '/tmp/image_blocks_10x10/' verbose: 'DEBUG' 
 Hello, world !
 CONCEPT: create_images_blocks_10x10
 0x0

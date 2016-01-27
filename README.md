@@ -138,6 +138,6 @@ TODO
 ----
 - [x] add conceptual image and first README
 - [x] add HOW TO with first script arguments parser
-- [ ] add first runnable block code
+- [x] add first runnable block code
 - [ ] add travis CI
 - [ ] add examples input images and outputs from analyzer

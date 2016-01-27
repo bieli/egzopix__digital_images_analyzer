@@ -1,4 +1,4 @@
-EGZOPIX - digilat images analyzers
+EGZOPIX - digital images analyzers
 ==================================
 
 Concepts

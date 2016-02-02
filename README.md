@@ -145,5 +145,6 @@ TODO
 - [x] add conceptual image and first README
 - [x] add HOW TO with first script arguments parser
 - [x] add first runnable block code
+- [ ] use [Taskler | https://github.com/bieli/Taskler] to chaining proccess
 - [ ] add travis CI
 - [ ] add examples input images and outputs from analyzer

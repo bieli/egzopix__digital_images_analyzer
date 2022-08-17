@@ -1,6 +1,4 @@
-import glob
 import logging
-import os.path
 
 from PIL import Image, ImageStat
 
